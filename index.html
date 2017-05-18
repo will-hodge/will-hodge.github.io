@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+	<title>Will Hodge - GitHub</title>
+    <head>
+        <style>
+        body {
+        	background-color: lightsteelblue;
+        }
+        h1 {
+        	font-family: verdana;
+            text-align: center;
+        }
+        button {
+            background-color: white;
+            border:none;
+            color: black;
+            width: 112px;
+            height: 36px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            cursor: pointer;
+            border-radius: 8px;
+            -webkit-transition-duration: 0.4s; /* Safari */
+    		transition-duration: 0.4s;
+        }
+        button:hover {
+            background-color: mediumaquamarine;
+            color: white;
+            }
+        #aboutMe {
+            padding: 50px;
+            margin: auto;
+            width: 50%;
+            text-align: center;
+            background-color: lightskyblue;
+            margin-top: 20px;
+            font-family: verdana;
+            display: none;
+            border-radius: 8px;
+        }
+        #contact {
+        	padding: 50px;
+            margin: auto;
+            width: 50%;
+            text-align: center;
+            background-color: lightgreen;
+            margin-top: 20px;
+            font-family: verdana;
+            display: none;
+            border-radius: 8px;
+        }
+        </style>
+    </head>
+    <body>
+        <h1>Will Hodge</h1>
+        <div style="text-align:center;">
+        <button onclick="hiding('aboutMe','contact')">About Me</button>
+        <button onclick="hiding('contact','aboutMe')">Contact</button>
+		</div>
+        <div style="text-align:center;">
+          <div id="aboutMe">
+          Hello! My name is Will Hodge and I'm a junior at Tufts University majoring in computer science and biopsychology.
+          </div>
+          <div id="contact">
+              Email: <br><a href="mailto:will.hodge@tufts.edu">
+              will.hodge@tufts.edu</a>
+          </div>
+          </div>
+
+
+        <script>
+            function hiding(x, y) {
+                var hide = document.getElementById(y)
+                hide.style.display = 'none';
+                var show = document.getElementById(x);
+                if (show.style.display != 'block'){
+                	show.style.display = 'none';
+				}
+                if (show.style.display == 'none') {
+                    show.style.display = 'block';
+                } else {
+                    show.style.display = 'none';
+                }
+            }
+        </script>
+    </body>
+</html>
