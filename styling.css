@@ -84,4 +84,5 @@ img {
     padding-top: 2em;
     width: 80%;
     user-select: none;
+    position: relative;
 }
