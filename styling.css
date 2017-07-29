@@ -2,6 +2,7 @@
  * will-hodge.github.io */
 
 @import url('https://fonts.googleapis.com/css?family=Roboto');
+
 body {
     background-color: White;
     font-family: 'Roboto', sans-serif;
@@ -85,4 +86,22 @@ img {
     width: 80%;
     user-select: none;
     position: relative;
+}
+
+@media only screen
+and (min-device-width : 375px)
+and (max-device-width : 667px) {
+    .card {
+        width: 100%;
+    }
+    #aboutMe {
+        width: 90%;
+    }
+    #contact {
+        width: 90%;
+    }
+    button {
+        width: 40%
+    }
+
 }
