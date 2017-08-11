@@ -89,6 +89,12 @@ img {
     position: relative;
 }
 
+.icon {
+    width: 16px;
+    height: 16px;
+    display: inline-block;
+}
+
 /*
 @media screen and (max-width : 736px) {
     .card {
