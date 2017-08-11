@@ -47,25 +47,27 @@ button:hover {
 #aboutMe {
     padding: 50px;
     margin: auto;
-    width: 31%;
+    width: 30%;
     text-align: center;
     background-color: LightSkyBlue;
     margin-top: 20px;
     font-family: 'Roboto', sans-serif;
     display: none;
     border-radius: 8px;
+    min-width: 300px;
 }
 
 #contact {
     padding: 50px;
     margin: auto;
-    width: 31%;
+    width: 30%;
     text-align: center;
     background-color: LightGreen;
     margin-top: 20px;
     font-family: 'Roboto', sans-serif;
     display: none;
     border-radius: 8px;
+    min-width: 300px;
 }
 
 .card {
