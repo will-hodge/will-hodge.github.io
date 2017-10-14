@@ -17,7 +17,8 @@
     "express": "^4.16.2",
     "prop-types": "^15.6.0",
     "react": "^16.0.0",
-    "react-dom": "^16.0.0"
+    "react-dom": "^16.0.0",
+    "semantic-ui-react": "^0.74.2"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
@@ -28,6 +29,7 @@
     "babel-preset-stage-2": "^6.24.1",
     "eslint": "^4.8.0",
     "eslint-plugin-react": "^7.4.0",
+    "file-loader": "^1.1.5",
     "nodemon": "^1.12.1",
     "webpack": "^3.6.0",
     "webpack-node-externals": "^1.6.0"
