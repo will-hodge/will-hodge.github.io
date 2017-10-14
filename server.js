@@ -5,7 +5,7 @@ import config from './config';
 
 const server = express();
 
-server.use(express.static(__dirname + '/public'))
+server.use(express.static(__dirname))
   .use(cookieParser())
   .use(bodyParser.json())
   .use(bodyParser.urlencoded({ extended: false }))
