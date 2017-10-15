@@ -8,7 +8,7 @@ const server = express();
 server.use(express.static(__dirname))
   .use(cookieParser())
   .use(bodyParser.json())
-  .use(bodyParser.urlencoded({ extended: false }))
+  .use(bodyParser.urlencoded({ extended: false }));
 
 server.get('/', (req, res) => {
   res.render('index', {
