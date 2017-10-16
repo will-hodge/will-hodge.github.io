@@ -39762,105 +39762,49 @@ var HeaderCard = function HeaderCard() {
     'div',
     null,
     _react2.default.createElement(
-      _semanticUiReact.Responsive,
-      { maxWidth: 768 },
+      _semanticUiReact.Card,
+      { centered: true, color: 'teal' },
+      _react2.default.createElement(_semanticUiReact.Image, { src: _will2.default, size: 'medium' }),
       _react2.default.createElement(
-        _semanticUiReact.Card,
-        { centered: true, fluid: true, color: 'teal' },
-        _react2.default.createElement(_semanticUiReact.Image, { src: _will2.default, fluid: true }),
+        _semanticUiReact.Card.Content,
+        null,
         _react2.default.createElement(
-          _semanticUiReact.Card.Content,
-          null,
-          _react2.default.createElement(
-            _semanticUiReact.Card.Header,
-            { textAlign: 'center' },
-            'Will Hodge'
-          ),
-          _react2.default.createElement(
-            _semanticUiReact.Card.Description,
-            { textAlign: 'center' },
-            'Hello! My name is Will Hodge and I am a junior at Tufts University majoring in computer science and biopsychology.'
-          )
+          _semanticUiReact.Card.Header,
+          { textAlign: 'center' },
+          'Will Hodge'
         ),
         _react2.default.createElement(
-          _semanticUiReact.Card.Content,
-          { extra: true },
-          _react2.default.createElement(
-            _semanticUiReact.Grid,
-            { centered: true, relaxed: true, padded: true },
-            _react2.default.createElement(
-              'a',
-              null,
-              _react2.default.createElement(_semanticUiReact.Icon, { name: 'lab' }),
-              'Projects'
-            ),
-            _react2.default.createElement(
-              'a',
-              { href: 'mailto:will.hodge@tufts.edu' },
-              _react2.default.createElement(_semanticUiReact.Icon, { name: 'mail outline' })
-            ),
-            _react2.default.createElement(
-              'a',
-              { href: 'https://www.linkedin.com/in/will-hodge/' },
-              _react2.default.createElement(_semanticUiReact.Icon, { name: 'linkedin' })
-            ),
-            _react2.default.createElement(
-              'a',
-              { href: 'https://github.com/will-hodge' },
-              _react2.default.createElement(_semanticUiReact.Icon, { name: 'github' })
-            )
-          )
+          _semanticUiReact.Card.Description,
+          { textAlign: 'center' },
+          'Hello! My name is Will Hodge and I am a junior at Tufts University majoring in computer science and biopsychology.'
         )
-      )
-    ),
-    _react2.default.createElement(
-      _semanticUiReact.Responsive,
-      { minWidth: 768 },
+      ),
       _react2.default.createElement(
-        _semanticUiReact.Card,
-        { centered: true, color: 'teal' },
-        _react2.default.createElement(_semanticUiReact.Image, { src: _will2.default, size: 'medium' }),
+        _semanticUiReact.Card.Content,
+        { extra: true },
         _react2.default.createElement(
-          _semanticUiReact.Card.Content,
-          null,
+          _semanticUiReact.Grid,
+          { centered: true, relaxed: true, padded: true },
           _react2.default.createElement(
-            _semanticUiReact.Card.Header,
-            { textAlign: 'center' },
-            'Will Hodge'
+            'a',
+            null,
+            _react2.default.createElement(_semanticUiReact.Icon, { name: 'lab' }),
+            'Projects'
           ),
           _react2.default.createElement(
-            _semanticUiReact.Card.Description,
-            { textAlign: 'center' },
-            'Hello! My name is Will Hodge and I am a junior at Tufts University majoring in computer science and biopsychology.'
-          )
-        ),
-        _react2.default.createElement(
-          _semanticUiReact.Card.Content,
-          { extra: true },
+            'a',
+            { href: 'mailto:will.hodge@tufts.edu' },
+            _react2.default.createElement(_semanticUiReact.Icon, { name: 'mail outline' })
+          ),
           _react2.default.createElement(
-            _semanticUiReact.Grid,
-            { centered: true, relaxed: true, padded: true },
-            _react2.default.createElement(
-              'a',
-              null,
-              _react2.default.createElement(_semanticUiReact.Icon, { name: 'lab' }),
-              'Projects'
-            ),
-            _react2.default.createElement(
-              'a',
-              { href: 'mailto:will.hodge@tufts.edu' },
-              _react2.default.createElement(_semanticUiReact.Icon, { name: 'mail outline' })
-            ),
-            _react2.default.createElement(
-              'a',
-              { href: 'https://www.linkedin.com/in/will-hodge/' },
-              _react2.default.createElement(_semanticUiReact.Icon, { name: 'linkedin' })
-            ),
-            _react2.default.createElement(
-              'a',
-              { href: 'https://github.com/will-hodge' },
-              _react2.default.createElement(_semanticUiReact.Icon, { name: 'github' })
-            )
+            'a',
+            { href: 'https://www.linkedin.com/in/will-hodge/' },
+            _react2.default.createElement(_semanticUiReact.Icon, { name: 'linkedin' })
+          ),
+          _react2.default.createElement(
+            'a',
+            { href: 'https://github.com/will-hodge' },
+            _react2.default.createElement(_semanticUiReact.Icon, { name: 'github' })
           )
         )
       )
