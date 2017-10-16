@@ -3,7 +3,6 @@ import { Card, Grid, Icon, Image } from 'semantic-ui-react';
 import will from '../images/will.jpg';
 
 const HeaderCard = () => (
-  <div>
     <Card centered={true} color='teal'>
       <Image src={will} size='medium' />
       <Card.Content>
@@ -33,7 +32,6 @@ const HeaderCard = () => (
         </Grid>
       </Card.Content>
     </Card>
-  </div>
 );
 
 export default HeaderCard;
