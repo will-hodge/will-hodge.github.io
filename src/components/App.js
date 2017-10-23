@@ -1,9 +1,13 @@
 import React from 'react';
+import { Container, Divider } from 'semantic-ui-react';
 import HeaderCard from './HeaderCard';
 
 const App = () => (
   <div className = "App">
-    <HeaderCard />
+    <Container>
+      <Divider hidden />
+      <HeaderCard />
+    </Container>
   </div>
 );
 
