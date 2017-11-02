@@ -20,7 +20,7 @@ const HeaderCard = () => (
             <Icon name='lab'/>
               Projects
           </a>
-          <a href='mailto:will.hodge@tufts.edu'>
+          <a href='mailto:will.hodge18@gmail.com'>
             <Icon name='mail outline'/>
           </a>
           <a href='https://www.linkedin.com/in/will-hodge/'>

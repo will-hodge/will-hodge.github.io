@@ -59438,7 +59438,7 @@ var HeaderCard = function HeaderCard() {
         ),
         _react2.default.createElement(
           'a',
-          { href: 'mailto:will.hodge@tufts.edu' },
+          { href: 'mailto:will.hodge18@gmail.com' },
           _react2.default.createElement(_semanticUiReact.Icon, { name: 'mail outline' })
         ),
         _react2.default.createElement(
