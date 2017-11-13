@@ -88,33 +88,27 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "level": "",
-      "keywords": [
-        "JavaScript",
-        "C",
-        "C++",
-        "HTML",
-        "CSS",
-        "Python",
-        "Java",
-        "Assembly",
-      ]
+      "name": "JavaScript",
     },
     {
-      "name": "Toolsets/OS",
-      "level": "",
-      "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "gdb",
-        "Adobe Photoshop",
-        "Adobe Illustrator"
-      ]
-    }
-  ],
+      "name": "C",
+    },
+    {
+      "name": "C++",
+    },
+    {
+      "name": "HTML",
+    },
+    {
+      "name": "CSS",
+    },
+    {
+      "name": "Java",
+    },
+    {
+      "name": "Assembly",
+    },
+  ]
   "education": [
     {
       "institution": "Tufts University, Medford, MA",
