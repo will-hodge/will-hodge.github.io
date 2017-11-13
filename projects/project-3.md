@@ -2,16 +2,16 @@
 layout: project
 type: project
 image:
-title: Locality
-permalink: projects/locality
+title: Arith
+permalink: projects/arith
 date: 2017
 labels:
   - C
-summary: Performance analysis of locality using caches.
+summary: Implementing an image compressor.
 ---
 
-Project as a part of my Machine Structure and Assembly Language class (COMP40). Implementing a blocked, two-dimensional array and then evaluated the performance of various image transformations using different array access methods with different locality properties.
+Project as a part of my Machine Structure and Assembly Language class (COMP40). The program takes in a ppm image and compresses it using lossy compression. Implemented a binary packing/unpacking program for the compression and had to work with floating-point arithmetic.
 
-Project specs [here](https://www.cs.tufts.edu/comp/40/homework/locality.pdf).
+Project specs [here](https://www.cs.tufts.edu/comp/40/homework/arith.pdf).
 
-<i class="medium github icon "></i>Project repository available upon request.
+<i class="large github icon "></i>Project repository available upon request.
