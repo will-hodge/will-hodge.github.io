@@ -10,8 +10,8 @@
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "",
-      "countryCode": "",
+      "city": "Seattle",
+      "countryCode": "USA",
       "region": ""
     },
     "profiles": [
