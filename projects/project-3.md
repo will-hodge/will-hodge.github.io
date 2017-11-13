@@ -14,4 +14,4 @@ Project as a part of my Machine Structure and Assembly Language class (COMP40). 
 
 Project specs [here](https://www.cs.tufts.edu/comp/40/homework/locality.pdf).
 
-Project repository available upon request <a href="https://github.com/will-hodge/hw3"><i class="large github icon "></i>here</a>.
+<i class="medium github icon "></i>Project repository available upon request.

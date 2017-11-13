@@ -22,4 +22,4 @@ Using what I learned in my Graphical User Interfaces class (COMP 86) to implemen
 
 Project [here](https://will-hodge.github.io/mouseOrbs/).
 
-Project repository <a href="https://github.com/will-hodge/mouseOrbs"><i class="large github icon "></i>here</a>.
+<i class="medium github icon "></i>Project repository <a href="https://github.com/will-hodge/mouseOrbs">here</a>.
