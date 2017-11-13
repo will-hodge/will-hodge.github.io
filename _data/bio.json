@@ -34,7 +34,12 @@
       ]
     },
     {
-      "name": "",
+      "name": "neuroscience",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "music",
       "keywords": [
       ]
     },
@@ -54,7 +59,9 @@
         "Java",
         "JavaScript",
         "Assembly",
-        "Python"
+        "Python",
+        "HTML",
+        "CSS"
       ]
     },
     {
@@ -65,6 +72,7 @@
         "Ubuntu",
         "Git/GitHub",
         "g++",
+        "gdb",
       ]
     }
   ],
