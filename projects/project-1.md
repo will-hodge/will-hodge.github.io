@@ -13,7 +13,7 @@ summary: Messing around with the canvas element with JavaScript.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/mouseOrbs.png">
+  <img class="ui image" src="images/mouseOrbs.png">
 </div>
 
 Using what I learned in my Graphical User Interfaces class (COMP 86) to implement a canvas that renders particles to orbit the user's mouse.
