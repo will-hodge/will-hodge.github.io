@@ -31,21 +31,34 @@
     {
       "name": "web development",
       "keywords": [
+        "full-stack",
+        "front-end",
+        "back-end"
       ]
     },
     {
       "name": "neuroscience",
       "keywords": [
+        "neurobiology",
+        "biopsychology"
       ]
     },
     {
       "name": "music",
       "keywords": [
+        "electronic",
+        "edm",
+        "electropop"
       ]
     },
     {
       "name": "mental health advocacy",
       "keywords": [
+        "Active Minds",
+        "NAMI",
+        "stigma",
+        "psychology",
+        "psychiatry"
       ]
     }
   ],
@@ -54,14 +67,14 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
+        "JavaScript",
         "C",
         "C++",
-        "Java",
-        "JavaScript",
-        "Assembly",
-        "Python",
         "HTML",
-        "CSS"
+        "CSS",
+        "Python",
+        "Java",
+        "Assembly",
       ]
     },
     {
@@ -73,6 +86,8 @@
         "Git/GitHub",
         "g++",
         "gdb",
+        "Adobe Photoshop",
+        "Adobe Illustrator"
       ]
     }
   ],
