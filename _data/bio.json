@@ -2,7 +2,7 @@
   "basics": {
     "name": "Will Hodge",
     "label": "Student",
-    "picture": "https://will-hodge.github.io/images/it_me.jpg",
+    "picture": "https://will-hodge.github.io/images/look_it_me.jpg",
     "email": "will.hodge18@gmail.com",
     "phone": "650-533-4064",
     "website": "https://will-hodge.github.io",
@@ -16,15 +16,15 @@
     },
     "profiles": [
       {
+        "network": "linkedin",
+        "username": "will-hodge",
+        "url": "http://linkedin.com/in/will-hodge"
+      },
+      {
         "network": "github",
         "username": "will-hodge",
         "url": "http://github.com/will-hodge"
       },
-      {
-        "network": "linkedin",
-        "username": "will-hodge",
-        "url": "http://linkedin.com/in/will-hodge"
-      }
     ]
   },
   "interests": [
