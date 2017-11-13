@@ -60,7 +60,22 @@
         "psychology",
         "psychiatry"
       ]
-    }
+    },
+    {
+      "name": "dogs",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "rain",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "tea",
+      "keywords": [
+      ]
+    },
   ],
   "skills": [
     {
