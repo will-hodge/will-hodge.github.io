@@ -44,6 +44,16 @@
       ]
     },
     {
+      "name": "mental health advocacy",
+      "keywords": [
+        "Active Minds",
+        "NAMI",
+        "stigma",
+        "psychology",
+        "psychiatry"
+      ]
+    },
+    {
       "name": "music",
       "keywords": [
         "electronic",
@@ -52,13 +62,12 @@
       ]
     },
     {
-      "name": "mental health advocacy",
+      "name": "pharmacology",
       "keywords": [
-        "Active Minds",
-        "NAMI",
-        "stigma",
-        "psychology",
-        "psychiatry"
+        "medicine",
+        "drugs",
+        "medication",
+        "pharmaceuticals"
       ]
     },
     {
