@@ -3,15 +3,7 @@
 <div class="card">
   {% if include.page.image %}
     <div class="image">
-      {% if page.projecturl %}
-        <a href="{{ page.projecturl }}">
-          <img class="image" src="{{ site.baseurl }}/{{ include.page.image }}">
-        </a>
-      {% else %}
-        <a href="{{ site.baseurl}}{{ include.page.url }}">
-          <img class="image" src="{{ site.baseurl }}/{{ include.page.image }}">
-        </a>
-      {% endif %}
+      <a href= "{{ page.projecturl }}"><img src="{{ site.baseurl }}/{{ include.page.image }}"></a>
     </div>
   {% endif %}
   <div class="content">
