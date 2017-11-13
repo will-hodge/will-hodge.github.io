@@ -35,10 +35,12 @@
       </div>
       <div class="center aligned content">
         <div class="description">
-          Languages and Frameworks:
+          Languages:
+          <ul>
           {% for skill in site.data.bio.skills %}
-            {{ skill.name }}{% if forloop.last != true %}, {% endif %}
+            <li>{{ skill.name }}{% if forloop.last != true %}, {% endif %}</li>
           {% endfor %}
+          </ul>
         </div>
       </div>
       <div class="center aligned extra content">
