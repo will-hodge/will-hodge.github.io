@@ -12,9 +12,9 @@ labels:
 summary: Messing around with the canvas element with JavaScript.
 ---
 
-<div class="ui large rounded images centered ">
+<div class="ui medium rounded images ">
   <a href="https://will-hodge.github.io/mouseOrbs/">
-    <img class="ui image" src="../images/mouseOrbs.png">
+    <img class="ui image center centered " src="../images/mouseOrbs.png">
   </a>
 </div>
 
