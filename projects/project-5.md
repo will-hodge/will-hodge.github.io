@@ -12,12 +12,9 @@ labels:
 summary: Messing around with the canvas element with JavaScript.
 ---
 
-<div class="ui medium rounded images ">
   <a href="https://will-hodge.github.io/mouseOrbs/">
-    <img class="ui image center centered " src="../images/mouseOrbs.png">
+    <img class="ui rounded image " src="../images/mouseOrbs.png">
   </a>
-</div>
-
 Using what I learned in my Graphical User Interfaces class (COMP 86) to implement a simple canvas that renders particles to orbit the user's mouse.
 
 Project [here](https://will-hodge.github.io/mouseOrbs/).
