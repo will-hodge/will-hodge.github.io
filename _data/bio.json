@@ -88,13 +88,13 @@
   ],
   "skills": [
     {
+      "name": "C++",
+    },
+    {
       "name": "JavaScript",
     },
     {
       "name": "C",
-    },
-    {
-      "name": "C++",
     },
     {
       "name": "HTML",
