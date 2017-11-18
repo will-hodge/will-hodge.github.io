@@ -6,10 +6,10 @@ title: Mouse Orbs
 permalink: projects/mouseOrbs
 date: 11/2017
 labels:
+  - JavaScript
   - HTML
   - CSS
-  - JavaScript
-summary: Messing around with the canvas element with JavaScript.
+summary: Having fun manipulating the canvas element with JavaScript.
 ---
 
   <a href="https://will-hodge.github.io/mouseOrbs/">
