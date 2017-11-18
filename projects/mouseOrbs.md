@@ -10,6 +10,7 @@ labels:
   - HTML
   - CSS
 summary: Exploring JavaScript manipulations of the HTML5 canvas element.
+---
 
   <a href="https://will-hodge.github.io/mouseOrbs/">
     <img class="ui medium rounded image " src="../images/mouseOrbs.png">
