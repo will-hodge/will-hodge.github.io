@@ -9,8 +9,7 @@ labels:
   - JavaScript
   - HTML
   - CSS
-summary: Having fun manipulating the canvas element with JavaScript.
----
+summary: Exploring JavaScript manipulations of the HTML5 canvas element.
 
   <a href="https://will-hodge.github.io/mouseOrbs/">
     <img class="ui medium rounded image " src="../images/mouseOrbs.png">
