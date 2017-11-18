@@ -4,7 +4,7 @@ type: project
 image:
 title: Arith
 permalink: projects/arith
-date: 2017
+date: 10/2017
 labels:
   - C
 summary: Implementing an image compressor.

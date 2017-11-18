@@ -4,7 +4,7 @@ type: project
 image:
 title: Locality
 permalink: projects/locality
-date: 2017
+date: 9/2017
 labels:
   - C
 summary: Performance analysis of locality using caches.
