@@ -25,6 +25,15 @@
         "username": "will-hodge",
         "url": "http://github.com/will-hodge"
       },
+      {
+        "network": "facebook",
+        "url": "https://www.facebook.com/will.hodge6",
+      },
+      {
+        "network": "spotify",
+        "username": "aguawill",
+        "url": "https://open.spotify.com/user/aguawill"
+      },
     ]
   },
   "interests": [
