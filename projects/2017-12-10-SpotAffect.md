@@ -7,7 +7,8 @@ permalink: projects/mouse-orbs
 date: 11/2017
 labels:
   - JavaScript
-  - Spotify API
+  - Spotify
+  - Affectiva
   - HTML
   - CSS
 summary:

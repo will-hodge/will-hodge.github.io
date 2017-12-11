@@ -2,7 +2,7 @@
 layout: project
 type: project
 image:
-title: Locality
+title: Working with Caches and Locality
 permalink: projects/locality
 date: 09/2017
 labels:
