@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image:
+image: images/spotaffect/spotaffect.png
 title: SpotAffect
 permalink: projects/SpotAffect
 date: 12/2017
