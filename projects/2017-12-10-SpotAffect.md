@@ -18,6 +18,6 @@ For my final project in my Graphical User Interfaces class I was instructed to m
 
 Written mainly in client-side JavaScript.
 
-Project [here](https://will-hodge.github.io/SpotAffect/).
+Project [here](https://will-hodge.github.io/SpotAffect/) (note: due to Affectiva's API limitations, this only works on Chrome, Firefox, and Opera).
 
 <i class="large github icon "></i>Project repository <a href="https://github.com/will-hodge/SpotAffect">here</a>.
