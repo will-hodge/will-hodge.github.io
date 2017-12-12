@@ -16,6 +16,8 @@ summary: Project that takes your facial expression, processes the emotion, and t
 
 For my final project in my Graphical User Interfaces class I was instructed to make an app that utilizes a non-traditional form of human-computer interaction. I used the Affectiva and Spotify Web APIs to create a web application that uses a computer webcam to analyze the emotion of the user and then delivers a song from Spotify that matches their emotion.
 
+Written mainly in client-side JavaScript.
+
 Project [here](https://will-hodge.github.io/SpotAffect/).
 
 <i class="large github icon "></i>Project repository <a href="https://github.com/will-hodge/SpotAffect">here</a>.
