@@ -17,6 +17,6 @@ summary: Exploring JavaScript manipulations of the HTML5 canvas element.
 
 Using what I learned in my Graphical User Interfaces class (COMP 86) to implement a simple canvas that renders particles to orbit the user's mouse.
 
-<div markdown="0"><a href="https://will-hodge.github.io/mouse-orbs/" class="btn">Project here</a></div>
+Project [here](https://will-hodge.github.io/mouse-orbs/).
 
-<i class="large github icon "></i><div markdown="0"><a href="https://github.com/will-hodge/mouse-orbs" class="btn">Project repository here</a></div>
+<i class="large github icon "></i>Project repository <a href="https://github.com/will-hodge/mouse-orbs">here</a>.
