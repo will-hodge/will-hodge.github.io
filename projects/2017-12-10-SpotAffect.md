@@ -20,7 +20,8 @@ For my final project in my Graphical User Interfaces class I was instructed to m
 
 Written mainly in client-side JavaScript.
 
-Project [here](https://will-hodge.github.io/SpotAffect/).
-(note: due to Affectiva's limitations, this only works on Chrome, Firefox, and Opera)
+<div markdown="0"><a href="https://will-hodge.github.io/SpotAffect/" class="btn">Project here</a></div>
 
-<i class="large github icon "></i>Project repository <a href="https://github.com/will-hodge/SpotAffect">here</a>.
+*(note: due to Affectiva's limitations, this only works on Chrome, Firefox, and Opera)*
+
+<i class="large github icon "></i><div markdown="0"><a href="https://github.com/will-hodge/SpotAffect" class="btn">Project repository here</a></div>
