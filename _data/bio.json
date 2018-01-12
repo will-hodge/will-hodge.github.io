@@ -42,10 +42,12 @@
       ]
     },
     {
-      "name": "neuroscience",
+      "name": "pharmacology",
       "keywords": [
-        "neurobiology",
-        "biopsychology"
+        "medicine",
+        "drugs",
+        "medication",
+        "pharmaceuticals"
       ]
     },
     {
@@ -67,12 +69,10 @@
       ]
     },
     {
-      "name": "pharmacology",
+      "name": "neuroscience",
       "keywords": [
-        "medicine",
-        "drugs",
-        "medication",
-        "pharmaceuticals"
+        "neurobiology",
+        "biopsychology"
       ]
     },
     {
@@ -86,7 +86,7 @@
       ]
     },
     {
-      "name": "tea",
+      "name": "coffee",
       "keywords": [
       ]
     },
