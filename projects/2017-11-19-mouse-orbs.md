@@ -7,8 +7,7 @@ permalink: projects/mouse-orbs
 date: 11/2017
 labels:
   - JavaScript
-  - HTML
-  - CSS
+  - HTML/CSS
 summary: Exploring JavaScript manipulations of the HTML5 canvas element.
 ---
 <a href="https://will-hodge.github.io/mouse-orbs/">

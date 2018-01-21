@@ -8,8 +8,7 @@ date: 12/2017
 labels:
   - Chrome
   - JavaScript
-  - HTML
-  - CSS
+  - HTML/CSS
 summary: Chrome extension that applies a greyscale filter to all open tabs to improve readability and curb mindless Internet use.
 ---
 <a href="https://github.com/will-hodge/grey-chrome">

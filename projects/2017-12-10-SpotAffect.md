@@ -9,8 +9,7 @@ labels:
   - JavaScript
   - Spotify
   - Affectiva
-  - HTML
-  - CSS
+  - HTML/CSS
 summary: Project that takes your facial expression, processes the emotion, and then searches for a song on Spotify that matches that emotion.
 ---
 <a href="https://github.com/will-hodge/SpotAffect">
