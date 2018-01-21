@@ -10,7 +10,7 @@ labels:
   - JavaScript
   - HTML
   - CSS
-summary: Chrome extension that applies a greyscale filter to all open tabs to improve readability.
+summary: Chrome extension that applies a greyscale filter to all open tabs to improve readability and curb mindless Internet use.
 ---
 <a href="https://github.com/will-hodge/grey-chrome">
   <img class="ui large rounded image " src="../images/grey-chrome/desc.png">
@@ -24,6 +24,6 @@ A simple Chrome extension that sits in the menu bar and, when clicked, turns all
 **After:**
 <img class="ui large rounded image " src="../images/grey-chrome/active.png">
 
-Greyscale is easier on the eyes and limits the addictive nature of webpages (see [here](http://www.tristanharris.com/2016/05/how-technology-hijacks-peoples-minds%E2%80%8A-%E2%80%8Afrom-a-magician-and-googles-design-ethicist/)).
+Greyscale is easier on the eyes and limits the addictive nature of webpages due to color (see [here](http://www.tristanharris.com/2016/05/how-technology-hijacks-peoples-minds%E2%80%8A-%E2%80%8Afrom-a-magician-and-googles-design-ethicist/)).
 
 <i class="large github icon "></i>Project repository <a href="https://github.com/will-hodge/grey-chrome">here</a>.
