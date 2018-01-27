@@ -6,7 +6,7 @@
     "email": "will.hodge18@gmail.com",
     "phone": "650-533-4064",
     "website": "https://will-hodge.github.io",
-    "summary": "I am a junior at Tufts University majoring in computer science and biopsychology.\rCurrently studying at the University of Oxford.",
+    "summary": ["I am a junior at Tufts University majoring in computer science and biopsychology.","Currently studying at the University of Oxford."],
     "location": {
       "address": "",
       "postalCode": "",
