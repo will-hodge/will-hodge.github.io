@@ -20,9 +20,9 @@ A simple Chrome extension that sits in the menu bar and, when clicked, turns all
 Greyscale is easier on the eyes and limits the addictive nature of webpages (see [here](http://www.tristanharris.com/2016/05/how-technology-hijacks-peoples-minds%E2%80%8A-%E2%80%8Afrom-a-magician-and-googles-design-ethicist/)).
 
 **Before:**
-<img class="ui large rounded image " src="../images/grey-chrome/inactive.png">
+<img class="ui rounded image " src="../images/grey-chrome/inactive.png">
 
 **After:**
-<img class="ui large rounded image " src="../images/grey-chrome/active.png">
+<img class="ui rounded image " src="../images/grey-chrome/active.png">
 
 <i class="large github icon "></i>Project repository <a href="https://github.com/will-hodge/grey-chrome">here</a>.
