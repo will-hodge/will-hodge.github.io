@@ -6,7 +6,7 @@
     "email": "will.hodge18@gmail.com",
     "phone": "650-533-4064",
     "website": "https://will-hodge.github.io",
-    "summary": ["Seattle native studying in Boston at Tufts University and majoring in computer science and biopsychology.","Currently studying at the University of Oxford."],
+    "summary": ["Seattleite studying in Boston at Tufts University and majoring in computer science and biopsychology.","Currently studying at the University of Oxford."],
     "location": {
       "address": "",
       "postalCode": "",
@@ -106,9 +106,6 @@
     },
     {
       "name": "HTML/CSS",
-    },
-    {
-      "name": "Java",
     },
     {
       "name": "Assembly",
