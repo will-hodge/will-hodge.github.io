@@ -42,15 +42,6 @@
       ]
     },
     {
-      "name": "pharmacology",
-      "keywords": [
-        "medicine",
-        "drugs",
-        "medication",
-        "pharmaceuticals"
-      ]
-    },
-    {
       "name": "mental health advocacy",
       "keywords": [
         "Active Minds",
@@ -69,6 +60,15 @@
       ]
     },
     {
+      "name": "pharmacology",
+      "keywords": [
+        "medicine",
+        "drugs",
+        "medication",
+        "pharmaceuticals"
+      ]
+    },
+    {
       "name": "dogs",
       "keywords": [
       ]
@@ -83,25 +83,33 @@
       "keywords": [
       ]
     },
+    {
+      "name": "oat milk",
+      "keywords": [
+      ]
+    },
   ],
   "skills": [
-    {
-      "name": "C++",
-    },
     {
       "name": "JavaScript",
     },
     {
-      "name": "C",
-    },
-    {
-      "name": "Python",
+      "name": "React/Redux",
     },
     {
       "name": "HTML/CSS",
     },
     {
-      "name": "Assembly",
+      "name": "jQuery",
+    },
+    {
+      "name": "C/C++",
+    },
+    {
+      "name": "Python",
+    },
+    {
+      "name": "Java",
     },
   ],
   "education": [
