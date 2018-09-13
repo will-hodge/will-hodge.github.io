@@ -94,12 +94,6 @@
       "name": "JavaScript",
     },
     {
-      "name": "React/Redux",
-    },
-    {
-      "name": "jQuery",
-    },
-    {
       "name": "HTML/CSS",
     },
     {
@@ -107,6 +101,20 @@
     },
     {
       "name": "Python",
+    },
+  ],
+  "libraries": [
+    {
+      "name": "React",
+    },
+    {
+      "name": "Redux",
+    },
+    {
+      "name": "jQuery",
+    },
+    {
+      "name": "Bootstrap",
     },
   ],
   "education": [

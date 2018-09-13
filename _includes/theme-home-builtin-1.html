@@ -43,6 +43,14 @@
           {% endfor %}
         </div>
       </div>
+      <div class="center aligned content">
+        <div class="description">
+          Libraries/Frameworks:
+          {% for library in site.data.bio.libraries %}
+            {{ library.name }}{% if forloop.last != true %}, {% endif %}
+          {% endfor %}
+        </div>
+      </div>
       <div class="center aligned extra content">
         {% include home-network-links.html %}
       </div>
