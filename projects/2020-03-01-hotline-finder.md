@@ -11,8 +11,10 @@ labels:
 summary: Simple full-stack web app that allows users to filter through professional mental health hotlines based on their current needs.
 ---
 <img class="ui rounded image " src="../images/hotline-finder/home.png">
+<br>
+<img class="ui rounded image " src="../images/hotline-finder/lgbtq-selected.png">
+<br>
 <img class="ui rounded image " src="../images/hotline-finder/lgbtq-selection.png">
-<img class="ui rounded image " src="../images/hotline-finder/lgbtq-filtered.png">
 
 Simple full-stack web app that allows users to filter through professional mental health hotlines based on their current needs. Uses a React frontend with a Node.js/Express backend with MongoDB data storage. 
 
