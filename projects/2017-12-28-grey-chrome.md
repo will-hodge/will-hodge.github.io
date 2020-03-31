@@ -4,7 +4,7 @@ type: project
 image: images/grey-chrome/logo.png
 title: Grey Chrome
 permalink: projects/grey-chrome
-date: 12/2017
+date: 2017-12-28
 labels:
   - Chrome
   - JavaScript

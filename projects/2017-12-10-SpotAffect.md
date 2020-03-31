@@ -4,7 +4,7 @@ type: project
 image: images/spotaffect/spotaffect.png
 title: SpotAffect
 permalink: projects/SpotAffect
-date: 12/2017
+date: 2017-12-10
 labels:
   - JavaScript
   - Spotify

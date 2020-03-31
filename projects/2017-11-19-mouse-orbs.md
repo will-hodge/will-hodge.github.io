@@ -4,7 +4,7 @@ type: project
 image: images/mouse-orbs/mouse-orbs.png
 title: Mouse Orbs
 permalink: projects/mouse-orbs
-date: 11/2017
+date: 2017-11-19
 labels:
   - JavaScript
   - HTML/CSS

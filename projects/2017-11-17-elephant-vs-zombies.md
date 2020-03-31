@@ -4,7 +4,7 @@ type: project
 image: images/elephant-vs-zombies/elephant-vs-zombies.png
 title: The Elephant (and Zombies) In The Room
 permalink: projects/elephant-vs-zombies
-date: 11/2017
+date: 2017-11-17
 labels:
   - Java
 summary: Interactive game written where the user must protect their house from invading zombies.
