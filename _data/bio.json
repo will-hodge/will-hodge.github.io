@@ -6,7 +6,7 @@
     "email": "will.hodge18@gmail.com",
     "phone": "650-533-4064",
     "website": "https://will-hodge.github.io",
-    "summary": ["Seattleite studying in Boston at Tufts University and majoring in computer science and biopsychology.", "", "Graduating May 2019. Feel free to email me for my resume!"],
+    "summary": ["Seattleite. Tufts University '19. Computer science and biopsychology."],
     "location": {
       "address": "",
       "postalCode": "",
@@ -42,14 +42,6 @@
       ]
     },
     {
-      "name": "healthcare",
-      "keywords": [
-        "health",
-        "health technology",
-        "biomedical"
-      ]
-    },
-    {
       "name": "mental health advocacy",
       "keywords": [
         "Active Minds",
@@ -57,6 +49,13 @@
         "stigma",
         "psychology",
         "psychiatry"
+      ]
+    },
+    {
+      "name": "gaming",
+      "keywords": [
+        "gaming",
+        "video games"
       ]
     },
     {
@@ -77,18 +76,11 @@
       ]
     },
     {
-      "name": "dogs",
+      "name": "healthcare",
       "keywords": [
-      ]
-    },
-    {
-      "name": "rain",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "coffee",
-      "keywords": [
+        "health",
+        "health technology",
+        "biomedical"
       ]
     },
     {
@@ -96,16 +88,22 @@
       "keywords": [
       ]
     },
+    {
+      "name": "dogs",
+      "keywords": [
+      ]
+    },
+
   ],
   "skills": [
     {
       "name": "JavaScript",
     },
     {
-      "name": "React",
+      "name": "TypeScript",
     },
     {
-      "name": "Redux",
+      "name": "React",
     },
     {
       "name": "HTML/CSS",
@@ -120,20 +118,20 @@
   "education": [
     {
       "institution": "Tufts University, Medford, MA",
-      "area": "Computer Science (expected Spring 2019)",
+      "area": "Computer Science",
       "studyType": "B.S.",
-      "startDate": "2015-09-01",
-      "endDate": "Present",
+      "startDate": "2015",
+      "endDate": "2019",
       "gpa": "",
       "courses": [
       ]
     },
     {
       "institution": "Tufts University, Medford, MA",
-      "area": "Biopsychology (expected Spring 2019)",
+      "area": "Biopsychology",
       "studyType": "B.S.",
-      "startDate": "2015-09-01",
-      "endDate": "Present",
+      "startDate": "2015",
+      "endDate": "2019",
       "gpa": "",
       "courses": [
       ]
