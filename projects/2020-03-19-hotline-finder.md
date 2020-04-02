@@ -13,6 +13,8 @@ summary: Simple full-stack web app that gives users the ability to filter throug
 
 Simple full-stack web app that gives users the ability to filter through national mental health hotlines to identify one that fits their current needs. Uses a React frontend with a Node.js/Express backend with MongoDB data storage. 
 
+Currently investigating sustainable hosting solutions.
+
 <i class="large github icon "></i>Project repository <a href="https://github.com/will-hodge/hotline-finder">here</a>.
 
 Home page
