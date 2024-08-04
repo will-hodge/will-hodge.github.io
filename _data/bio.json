@@ -1,11 +1,12 @@
 {
   "basics": {
     "name": "Will Hodge",
-    "picture": "https://will-hodge.github.io/images/Whidbey.jpeg",
+    "picture": "https://will-hodge.github.io/images/scuba-headshot.jpeg",
     "email": "will.hodge18@gmail.com",
-    "phone": "650-533-4064",
     "website": "https://will-hodge.github.io",
-    "summary": ["Software Engineer. Seattleite. Tufts University '19"],
+    "summary": [
+      "Software Engineer. Seattleite. Tufts University grad."
+    ],
     "location": {
       "address": "",
       "postalCode": "",
@@ -23,26 +24,35 @@
         "network": "github",
         "username": "will-hodge",
         "url": "http://github.com/will-hodge"
-      },
+      }
     ]
   },
   "interests": [
     {
-      "name": "web development",
+      "name": "privacy",
       "keywords": [
-        "full-stack",
-        "front-end",
-        "back-end"
+        "privacy"
+      ]
+    },
+    {
+      "name": "harm reduction",
+      "keywords": [
+        "harm reduction",
+        "drug reform"
+      ]
+    },
+    {
+      "name": "house/techno music",
+      "keywords": [
+        "house",
+        "techno",
+        "electronic"
       ]
     },
     {
       "name": "mental health advocacy",
       "keywords": [
-        "Active Minds",
-        "NAMI",
-        "stigma",
-        "psychology",
-        "psychiatry"
+        "mental health advocacy"
       ]
     },
     {
@@ -53,52 +63,27 @@
       ]
     },
     {
-      "name": "electronic music",
-      "keywords": [
-        "electronic",
-        "edm",
-        "electropop"
-      ]
-    },
-    {
-      "name": "healthcare",
-      "keywords": [
-        "health",
-        "health technology",
-        "biomedical"
-      ]
-    },
-    {
       "name": "oat milk",
-      "keywords": [
-      ]
+      "keywords": []
     },
     {
       "name": "dogs",
-      "keywords": [
-      ]
-    },
-
+      "keywords": []
+    }
   ],
   "skills": [
     {
-      "name": "JavaScript",
+      "name": "Java"
     },
     {
-      "name": "TypeScript",
+      "name": "AWS: CDK, Lambda, API Gateway, DynamoDB, SQS, EC2, Kinesis"
     },
     {
-      "name": "React",
+      "name": "TypeScript/JavaScript"
     },
     {
-      "name": "HTML/CSS",
-    },
-    {
-      "name": "C/C++",
-    },
-    {
-      "name": "Python",
-    },
+      "name": "Python"
+    }
   ],
   "education": [
     {
@@ -108,8 +93,7 @@
       "startDate": "2015",
       "endDate": "2019",
       "gpa": "",
-      "courses": [
-      ]
+      "courses": []
     },
     {
       "institution": "Tufts University, Medford, MA",
@@ -118,8 +102,7 @@
       "startDate": "2015",
       "endDate": "2019",
       "gpa": "",
-      "courses": [
-      ]
+      "courses": []
     }
   ]
 }
