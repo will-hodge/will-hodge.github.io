@@ -1,6 +1,6 @@
 <!-- Home page design with small circular image bisecting card. -->
 
-{% assign essay_pages = site.pages | where: "type", "essay"  | where_exp: "page", "page.draft != true" %}
+{% assign essay_pages = site.pages | where: "type", "essay" | where_exp: "page", "page.draft != true" %}
 {% assign project_pages = site.pages | where: "type", "project" | where_exp: "page", "page.draft != true" %}
 {% assign num_essays = essay_pages.size %}
 {% assign num_projects = project_pages.size %}
@@ -23,7 +23,7 @@
         </div>
         <div class="center aligned description">
           {% for blurb in site.data.bio.basics.summary %}
-            {{ blurb }}<br />
+          {{ blurb }}<br />
           {% endfor %}
         </div>
       </div>
@@ -31,15 +31,15 @@
         <div class="description">
           <div class="interests">Interests:</div>
           {% for interest in site.data.bio.interests %}
-            {{ interest.name }}{% if forloop.last != true %}, {% endif %}
+          {{ interest.name }}{% if forloop.last != true %}, {% endif %}
           {% endfor %}
         </div>
       </div>
       <div class="center aligned content">
         <div class="description">
-          <div class="skills">Languages and Libraries/Frameworks:</div>
+          <div class="skills">Languages and Technologies:</div>
           {% for skill in site.data.bio.skills %}
-            {{ skill.name }}{% if forloop.last != true %}, {% endif %}
+          {{ skill.name }}{% if forloop.last != true %}, {% endif %}
           {% endfor %}
         </div>
       </div>
