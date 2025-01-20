@@ -27,6 +27,20 @@
       }
     ]
   },
+  "skills": [
+    {
+      "name": "Java"
+    },
+    {
+      "name": "AWS: CDK, Lambda, API Gateway, DynamoDB, SQS, EC2, Kinesis, RDS"
+    },
+    {
+      "name": "TypeScript/JavaScript"
+    },
+    {
+      "name": "Python"
+    }
+  ],
   "interests": [
     {
       "name": "privacy",
@@ -66,39 +80,6 @@
       "keywords": [
         "mental health advocacy"
       ]
-    },
-    {
-      "name": "gaming",
-      "keywords": [
-        "gaming",
-        "video games"
-      ]
-    },
-    {
-      "name": "oat milk",
-      "keywords": []
-    },
-    {
-      "name": "cats",
-      "keywords": []
-    },
-    {
-      "name": "dogs",
-      "keywords": []
-    }
-  ],
-  "skills": [
-    {
-      "name": "Java"
-    },
-    {
-      "name": "AWS: CDK, Lambda, API Gateway, DynamoDB, SQS, EC2, Kinesis, RDS"
-    },
-    {
-      "name": "TypeScript/JavaScript"
-    },
-    {
-      "name": "Python"
     }
   ],
   "education": [
