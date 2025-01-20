@@ -39,7 +39,7 @@
         <div class="description">
           <div class="aws">AWS Services:</div>
           {% for service in site.data.bio.aws %}
-          {{ aws.name }}{% if forloop.last != true %}, {% endif %}
+          {{ service.name }}{% if forloop.last != true %}, {% endif %}
           {% endfor %}
         </div>
       </div>
