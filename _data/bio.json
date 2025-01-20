@@ -40,37 +40,34 @@
   ],
   "aws": [
     {
-      "name": "CDK"
+      "name": "Cloud Development Kit (CDK)"
     },
     {
-      "name": "Lambda"
+      "name": "AWS Lambda"
     },
     {
       "name": "API Gateway"
     },
     {
-      "name": "DynamoDB"
+      "name": "Amazon DynamoDB"
     },
     {
-      "name": "SQS"
+      "name": "Simple Queue Service (SQS)"
     },
     {
-      "name": "CloudWatch"
+      "name": "Amazon CloudWatch"
     },
     {
-      "name": "Kinesis"
+      "name": "Amazon Kinesis"
     },
     {
-      "name": "RDS"
+      "name": "Relational Database Service (RDS)"
     },
     {
-      "name": "ECS"
+      "name": "AWS Elastic Container Service (ECS)"
     }
   ],
   "devops": [
-    {
-      "name": "CI/CD Pipeline Setup"
-    },
     {
       "name": "Infrastructure as Code (IaC)"
     },
@@ -79,6 +76,9 @@
     },
     {
       "name": "Continuous Deployment"
+    },
+    {
+      "name": "CI/CD Pipeline Setup"
     },
     {
       "name": "Automated Testing"
