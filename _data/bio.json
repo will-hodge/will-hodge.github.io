@@ -5,7 +5,7 @@
     "email": "will.hodge18@gmail.com",
     "website": "https://will-hodge.github.io",
     "summary": [
-      "Software Engineer. Seattleite. Tufts University grad."
+      "Software Engineer at Amazon Privacy. Seattleite. Tufts University grad."
     ],
     "location": {
       "address": "",
@@ -32,6 +32,18 @@
       "name": "privacy",
       "keywords": [
         "privacy"
+      ]
+    },
+    {
+      "name": "digital rights",
+      "keywords": [
+        "digital rights"
+      ]
+    },
+    {
+      "name": "scuba diving",
+      "keywords": [
+        "scuba diving"
       ]
     },
     {
@@ -67,6 +79,10 @@
       "keywords": []
     },
     {
+      "name": "cats",
+      "keywords": []
+    },
+    {
       "name": "dogs",
       "keywords": []
     }
@@ -76,7 +92,7 @@
       "name": "Java"
     },
     {
-      "name": "AWS: CDK, Lambda, API Gateway, DynamoDB, SQS, EC2, Kinesis"
+      "name": "AWS: CDK, Lambda, API Gateway, DynamoDB, SQS, EC2, Kinesis, RDS"
     },
     {
       "name": "TypeScript/JavaScript"
