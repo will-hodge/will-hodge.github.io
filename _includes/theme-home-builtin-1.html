@@ -40,7 +40,7 @@
           <div class="aws">AWS Services:</div>
           {% for service in site.data.bio.aws %}
           {{ aws.name }}{% if forloop.last != true %}, {% endif %}
-          {% service %}
+          {% endfor %}
         </div>
       </div>
       <div class="center aligned content">
