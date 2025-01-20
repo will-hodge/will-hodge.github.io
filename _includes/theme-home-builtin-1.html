@@ -29,17 +29,33 @@
       </div>
       <div class="center aligned content">
         <div class="description">
-          <div class="interests">Interests:</div>
-          {% for interest in site.data.bio.interests %}
-          {{ interest.name }}{% if forloop.last != true %}, {% endif %}
+          <div class="skills">Programming Languages:</div>
+          {% for skill in site.data.bio.skills %}
+          {{ skill.name }}{% if forloop.last != true %}, {% endif %}
           {% endfor %}
         </div>
       </div>
       <div class="center aligned content">
         <div class="description">
-          <div class="skills">Languages and Technologies:</div>
-          {% for skill in site.data.bio.skills %}
-          {{ skill.name }}{% if forloop.last != true %}, {% endif %}
+          <div class="aws">AWS Services:</div>
+          {% for service in site.data.bio.aws %}
+          {{ aws.name }}{% if forloop.last != true %}, {% endif %}
+          {% service %}
+        </div>
+      </div>
+      <div class="center aligned content">
+        <div class="description">
+          <div class="aws">Tools & Practices:</div>
+          {% for tool in site.data.bio.devops %}
+          {{ tool.name }}{% if forloop.last != true %}, {% endif %}
+          {% endfor %}
+        </div>
+      </div>
+      <div class="center aligned content">
+        <div class="description">
+          <div class="interests">Interests:</div>
+          {% for interest in site.data.bio.interests %}
+          {{ interest.name }}{% if forloop.last != true %}, {% endif %}
           {% endfor %}
         </div>
       </div>

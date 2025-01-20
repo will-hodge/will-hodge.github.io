@@ -2,7 +2,7 @@
   "basics": {
     "name": "Will Hodge",
     "picture": "https://will-hodge.github.io/images/scuba-headshot.jpeg",
-    "email": "will.hodge18@gmail.com",
+    "email": "will@hydratedhodge.com",
     "website": "https://will-hodge.github.io",
     "summary": [
       "Software Engineer at Amazon Privacy. Seattleite. Tufts University grad."
@@ -32,13 +32,56 @@
       "name": "Java"
     },
     {
-      "name": "AWS: CDK, Lambda, API Gateway, DynamoDB, SQS, EC2, Kinesis, RDS"
-    },
-    {
       "name": "TypeScript/JavaScript"
     },
     {
       "name": "Python"
+    }
+  ],
+  "aws": [
+    {
+      "name": "CDK"
+    },
+    {
+      "name": "Lambda"
+    },
+    {
+      "name": "API Gateway"
+    },
+    {
+      "name": "DynamoDB"
+    },
+    {
+      "name": "SQS"
+    },
+    {
+      "name": "CloudWatch"
+    },
+    {
+      "name": "Kinesis"
+    },
+    {
+      "name": "RDS"
+    },
+    {
+      "name": "ECS"
+    }
+  ],
+  "devops": [
+    {
+      "name": "CI/CD Pipeline Setup"
+    },
+    {
+      "name": "Infrastructure as Code (IaC)"
+    },
+    {
+      "name": "Continuous Integration"
+    },
+    {
+      "name": "Continuous Deployment"
+    },
+    {
+      "name": "Automated Testing"
     }
   ],
   "interests": [
@@ -61,6 +104,12 @@
       ]
     },
     {
+      "name": "mental health advocacy",
+      "keywords": [
+        "mental health advocacy"
+      ]
+    },
+    {
       "name": "harm reduction",
       "keywords": [
         "harm reduction",
@@ -73,12 +122,6 @@
         "house",
         "techno",
         "electronic"
-      ]
-    },
-    {
-      "name": "mental health advocacy",
-      "keywords": [
-        "mental health advocacy"
       ]
     }
   ],

@@ -3,22 +3,24 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="mobile-web-app-capable" content="yes">
-  <link rel="shortcut icon" href="/siteicon.ico"/>
+  <link rel="shortcut icon" href="/siteicon.ico" />
 
   <!-- Open Graph -->
   <meta property="og:locale" content="en_US">
   <meta property="og:type" content="article">
   <meta property="og:title" content="Will Hodge | Profile">
   <meta property="og:url" content="https://will-hodge.github.io/">
-  <meta property="og:image" content="https://raw.githubusercontent.com/will-hodge/will-hodge.github.io/master/images/Whidbey.jpeg">
+  <meta property="og:image"
+    content="https://raw.githubusercontent.com/will-hodge/will-hodge.github.io/3fb38339c9a31955f264b7cf13050154e3e2face/images/scuba-headshot.jpeg">
 
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:image" content="https://raw.githubusercontent.com/will-hodge/will-hodge.github.io/master/images/Whidbey.jpeg">
+  <meta name="twitter:image"
+    content="https://raw.githubusercontent.com/will-hodge/will-hodge.github.io/3fb38339c9a31955f264b7cf13050154e3e2face/images/scuba-headshot.jpeg">
   <meta name="twitter:title" content="Will Hodge | Profile">
 
   <title>
     {% if page.title %}
-      {{ page.title }} |
+    {{ page.title }} |
     {% endif %}
     {{ site.title }}
   </title>
@@ -34,21 +36,5 @@
 
   <link rel="stylesheet" type="text/css" href="{{ site.baseurl}}/css/print-default.css" media="print">
   <link rel="stylesheet" type="text/css" href="{{ site.baseurl}}/css/print-customizations.css" media="print">
-
-  <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
-  {% if site.mathjax %}
-  <script type="text/javascript"
-          src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
-  {% endif %}
-
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-109839707-1"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', 'UA-109839707-1');
-  </script>
 
 </head>
